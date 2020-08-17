@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PeraTagView_Example' do
+  pod 'PeraTagView', :path => '../'
+
+  target 'PeraTagView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
