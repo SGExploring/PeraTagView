@@ -1,0 +1,6 @@
+framework module PeraTagView {
+  umbrella header "PeraTagView-umbrella.h"
+
+  export *
+  module * { export * }
+}

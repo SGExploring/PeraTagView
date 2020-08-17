@@ -1,0 +1,6 @@
+framework module Pods_PeraTagView_Example {
+  umbrella header "Pods-PeraTagView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

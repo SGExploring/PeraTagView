@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - PeraTagView (1.0.0):
+    - Masonry
+
+DEPENDENCIES:
+  - PeraTagView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  PeraTagView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PeraTagView: 0441641d9748e739244ef314d36809a907e5b9ab
+
+PODFILE CHECKSUM: 96af9bcc00bac0c3bf3eb040df65d0db6bbc7ee9
+
+COCOAPODS: 1.9.3
