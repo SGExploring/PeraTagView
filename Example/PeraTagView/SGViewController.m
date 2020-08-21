@@ -7,7 +7,6 @@
 //
 
 #import "SGViewController.h"
-
 @interface SGViewController ()
 
 @end
